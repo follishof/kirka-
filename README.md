@@ -13,7 +13,7 @@
 
     function redirectToHourly() {
         if (window.location.href === 'https://kirka.io/') {
-            window.location.href = 'https://kirka.io/games/OCEANIA~Gtnw8DPRC';
+            window.location.href = 'https://kirka.io/games/OCEANIA~Gtnw8DPR';
         }
     }
 
