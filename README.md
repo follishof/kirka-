@@ -11,7 +11,7 @@
     'use strict';
 
     // Set the target URL here
-    const targetURL = 'https://kirka.io/games/OCEANIA~_Tk2ZZj3M';
+    const targetURL = 'https://kirka.io/games/OCEANIA~mPEqYfOXO';
 
     // Function to redirect to the target page
     function redirectToTarget() {
